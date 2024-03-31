@@ -1,3 +1,4 @@
+# Check if sentence is a pangram
 import string
 def is_pangram(str1, alphabet = string.ascii_lowercase ):
     str1 = str1.lower()
