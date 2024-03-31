@@ -1,3 +1,4 @@
+#Does not add numbers between 6 and 9 in a list, including. Adds all other list items
 def six_to_nine(a):
     add = True
     sum = 0
